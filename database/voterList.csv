@@ -1,0 +1,5 @@
+,voter_id,Name,Email,Gender,Zone,City,Passw,hasVoted
+0,10001,Pratik Dhamal,pratikdhamal18@gmail.com,Male,Satara,Wai,pratik,1
+1,10002,Jay Deshmukh,jay.deshmukh20@vit.edu,Male,Nagpur,Umarkhed,jay,1
+2,10003,XYZ,aditya.bhartiya20@vit.edu,Male,Pune,Pune,aaditya,0
+3,10004,Aditya,aditya.bhartiya20@vit.edu,Male,,,aaditya,0
