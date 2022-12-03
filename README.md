@@ -1,5 +1,5 @@
 # Online-Voting-System-
-This project was a web-based voting system created in Python. The main purpose of this project is to vote for a secretary in each given collage. Additionally, the project uses socket programming, multithreading, and the SMTP protocol for mail transfers.
+This project is a GUI based voting system created in Python. The main purpose of this project is to vote for a secretary in each given collage. Additionally, the project uses socket programming, multithreading, and the SMTP protocol for mail transfers.
 
 **Introduction-**
 1. Here, the client and server create a connection, indicating that the TCP protocol is in use. For each new request, the Server should create a new thread. 
